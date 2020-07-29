@@ -1,0 +1,118 @@
+.container-fluid{
+    position: relative;
+    font-family: europa;
+    color:#B33153;
+    font-weight: bold;
+}
+
+.welcome-pic{
+    max-width: 100%;
+    max-height: 40%;
+}
+.center-left{
+    position: absolute;
+    top: 30%;
+    left: 85%;
+    transform: translate(-50%, -50%);
+    color:#B33153;
+    font-size: 18px;
+    display: inline-block;
+    text-transform: none;
+    letter-spacing: .1em;
+}
+.top-right{
+    position: absolute;
+    top: 10%;
+    right: 5%;
+    font-size: 16px;
+    letter-spacing: .3em;
+    display: inline-block;
+}
+.top-right-subname{
+    position: absolute;
+    top: 80px;
+    left: 50px;
+    font-size: 17px;
+    letter-spacing: .3em;
+}
+.header-main{
+    margin: 5% 0% 0% 0%;
+}
+.header-center{
+    position: relative;
+    margin: 0;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color:#B33153;
+    font-size: 35px;
+    display: inline-block;
+    text-transform: none;
+    letter-spacing: 0.2em;
+    font-family: europa;
+    font-weight: 300;
+    font-style: normal;
+    line-height: .8em;
+}
+.header-subtitle{
+    position: absolute;
+    font-size: 16px;
+    top: 150%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-family: europa;
+    font-weight: 300;
+    font-style: normal;
+    line-height: 2em;
+    text-transform: none;
+    letter-spacing: .3em;
+}
+.jumbotron-alignment{
+    position: relative;
+    /*border: 1px solid yellow;*/
+    text-align: center;
+    font-family: europa;
+    color: #4C1523;
+}
+.stay-text{
+    /*border: 1px solid green;*/
+    position: absolute;
+    font-weight: bold;
+    font-style: normal;
+    line-height: 1.2em;
+    text-align: center;
+    top: 35%;
+    left: 45%;
+    transform: translate(-50px, -50px);
+    letter-spacing: 0.5em;
+}
+.button-sign{
+    color: white;
+    text-align: center;
+    /*cursor: pointer;*/
+}
+.carousel-align{
+    width: 60%;
+    transform: translate(-50px, -50px);
+    margin: 10% 0% 0% 20%;
+}
+.about-pic{
+    border: 1px solid red;
+    max-width: 60%;
+}
+.common-text{
+    text-align: center;
+    line-height: 6em;
+    letter-spacing: .3em;
+    font-weight: 300;
+    text-transform: none;
+}
+.inner-text{
+    text-align: center;
+    font-weight: 300;
+    font-style: normal;
+    line-height: 1.5em;
+    font-size: 17px;
+    letter-spacing: .1em;
+    margin: 0 0 1em;
+}
